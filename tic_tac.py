@@ -102,14 +102,5 @@ if __name__ == "__main__":
 
 
 
-	#board = create_board(dim)
-	#print_board(board)
-	# testing
-	# board = [['*','_','_'],['*', '*', '_'], ['*','_','_']]
-	# print_board(board)
-	# if check_win(board):
-	# 	print("Won")
-	# else:
-	# 	print("Not yet")
 
 
